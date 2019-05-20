@@ -1,0 +1,9 @@
+Building OTOCASH
+
+See doc/readme-qt.rst for instructions on building OTOCASH QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of OTOCASH.
+
+See doc/build-*.txt for instructions on building otocashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of OTOCASH.
