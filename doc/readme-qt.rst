@@ -151,3 +151,14 @@ disable screen reader functionality for Qt apps:
     sudo apt-get remove qt-at-spi
 
 .. _`launchpad bug 857790`: https://bugs.launchpad.net/ubuntu/+source/qt-at-spi/+bug/857790
+
+Build instructions (Ubuntu 16)
+==============================
+::
+
+- cd src/
+- make -j3 -f makefile.unix
+- apt-get install libleveldb-dev
+- configure make
+
+Note : without installed leveldb -dev it will not work
