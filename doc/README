@@ -17,5 +17,12 @@ the goal of providing a long-term energy-efficient scrypt-based crypto-currency.
 Built on the foundation of Bitcoin, PPCoin and NovaCoin, innovations such as proof-of-stake
 help further advance the field of crypto-currency.
 
+
 Coin Specs
 ----------
+nStakeMinConfirmations = 10;
+nStakeMinAge = 10 * (60); // 10 second
+nStakeMaxAge = 1 * (60 * 60 ); // 1 min
+nModifierInterval = 5 * (60 * 60); // time to elapse before new modifier is computed
+
+nCoinbaseMaturity = 10;
