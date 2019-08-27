@@ -85,18 +85,11 @@ public:
         base58Prefixes[EXT_PUBLIC_KEY] = boost::assign::list_of(0x04)(0x88)(0xB2)(0x1E).convert_to_container<std::vector<unsigned char> >();
         base58Prefixes[EXT_SECRET_KEY] = boost::assign::list_of(0x04)(0x88)(0xAD)(0xE4).convert_to_container<std::vector<unsigned char> >();
 
-        vSeeds.push_back(CDNSSeedData("199.192.21.195", "199.192.21.195"));
-        vSeeds.push_back(CDNSSeedData("104.219.248.187", "104.219.248.187"));
-		vSeeds.push_back(CDNSSeedData("199.192.16.64", "199.192.16.64"));
-		vSeeds.push_back(CDNSSeedData("104.168.99.53", "104.168.99.53"));
-		vSeeds.push_back(CDNSSeedData("104.219.248.187", "104.219.248.187"));
-		vSeeds.push_back(CDNSSeedData("199.192.21.195", "199.192.21.195"));
-		vSeeds.push_back(CDNSSeedData("185.136.163.178", "185.136.163.178"));
-		vSeeds.push_back(CDNSSeedData("82.195.237.251", "82.195.237.251"));
-		vSeeds.push_back(CDNSSeedData("199.192.26.10", "199.192.26.10"));
-		vSeeds.push_back(CDNSSeedData("199.192.26.38", "199.192.26.38"));
-		vSeeds.push_back(CDNSSeedData("198.54.121.78", "198.54.121.78"));
-
+       vSeeds.push_back(CDNSSeedData("111.90.151.137", "111.90.151.137"));
+       vSeeds.push_back(CDNSSeedData("104.219.248.187", "104.219.248.187"));
+       vSeeds.push_back(CDNSSeedData("185.136.163.178", "185.136.163.178"));
+       vSeeds.push_back(CDNSSeedData("161.129.65.4", "161.129.65.4"));
+	    
         nLastPOWBlock = 20;
     }
 
@@ -146,8 +139,8 @@ public:
         vFixedSeeds.clear();
         vSeeds.clear();
 
-        vSeeds.push_back(CDNSSeedData("198.54.121.78", "198.54.121.78"));
-
+        vSeeds.push_back(CDNSSeedData("199.192.16.64", "199.192.16.64"));
+	    
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 63); // S
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 125); // s
         base58Prefixes[SECRET_KEY]     = std::vector<unsigned char>(1, 58); // Q
