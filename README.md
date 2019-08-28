@@ -6,7 +6,7 @@ http://www.otocash.io
 Copyright (c) 2018-2019 OTO CASH ENTERPRISE
 
 [![Build Status](https://travis-ci.org/otocash/OTOCASH.svg?branch=master)](https://travis-ci.org/otocash/OTOCASH)
-  [![License][license-badge]][license-page]
+ / [![License][license-badge]][license-page]
 [license-page]: LICENSE
 [license-badge]: http://img.shields.io/badge/License-MIT-brightgreen.svg
 
