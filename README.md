@@ -4,6 +4,7 @@ OTOCASH Core staging tree V1.0.1
 http://www.otocash.io
 
 Copyright (c) 2018-2019 OTO CASH ENTERPRISE
+
 [![Build Status](https://travis-ci.org/otocash/OTOCASH.svg?branch=master)](https://travis-ci.org/otocash/OTOCASH)
 [![License][license-badge]][license-page]
 
