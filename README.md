@@ -54,7 +54,7 @@ Issues with no commits will be given a similar warning, and closed after 15 days
 
 See  [readme-qt](/doc/readme-qt.rst) and [coding.txt](/doc/coding.txt) for instructions on building OTOCASH QT,the intended-for-end-users, nice-graphical-interface, reference implementation of OTOCASH.
 
-See [build-msw.txt](/doc/build-msw.txt),[build-osx.txt](/doc/build-osx.txt) or [build-unix.txt](/doc/build-unix.txt) for instructions on building otocashd,the intended-for-services, no-graphical-interface, reference implementation of OTOCASH.
+See [build-msw.txt](/doc/build-msw.txt) , [build-osx.txt](/doc/build-osx.txt) or [build-unix.txt](/doc/build-unix.txt) for instructions on building otocashd,the intended-for-services, no-graphical-interface, reference implementation of OTOCASH.
 
 
 OTOCASH peer list
