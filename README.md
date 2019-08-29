@@ -23,15 +23,22 @@ What is OTOCASH?
 
 OTOCASH (OTO) is a Scrypt-PoS Based Cryptocurrency, OTOCASH coin will be used on OTOCASH PAYMENT SYSTEM platform that enables buyers to use their OTO Coin’s in order to pay sellers (private or merchants). We provide user or merchants with the safety and convenience with KYC and offer the best consumer-protection to buyers and sellers.
 
-OTOCASH Coin
-----------------
-```
-- 38254582 total coins (Premine)
-- Block time: 60 seconds target
-- Rewards: 0.0001 OTO per block
-- Scrypt Proof of Work
-- Mineable by Staking
-```
+### Coin Specs
+<table>
+<tr><td>Max Coin Supply</td><td>Unlimited</td></tr>
+<tr><td>Type</td><td>POS </td></tr>
+<tr><td>Algo</td><td>Script-PoS</td></tr>
+<tr><td>Average Block Time</td><td>140 Seconds</td></tr>
+<tr><td>Maturity</td><td>10 Confirmations</td></tr>
+<tr><td>Reward</td><td>0.0001 OTO</td></tr>
+<tr><td>P2P port</td><td>7011</td></tr>
+<tr><td>RPC port</td><td>7012</td></tr>
+<tr><td>Premine</td><td>38254582 OTO*</td></tr>
+</table>
+
+*View Coin Distribution on [otocash.io](https://www.otocash.io/#distribution)
+
+### Reward Distribution
 For more information, as well as an immediately useable, binary version of
 the OTOCASH client sofware, see https://www.otocash.io/otocash_documentation/.
 
