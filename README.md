@@ -36,9 +36,10 @@ OTOCASH (OTO) is a Scrypt-PoS Based Cryptocurrency, OTOCASH coin will be used on
 <tr><td>Premine</td><td>38254582 OTO*</td></tr>
 </table>
 
-*View Coin Distribution on [otocash.io](https://www.otocash.io/#distribution)
 
 ### Reward Distribution
+*View Coin Distribution on [otocash.io](https://www.otocash.io/#distribution)
+
 For more information, as well as an immediately useable, binary version of
 the OTOCASH client sofware, see https://www.otocash.io/otocash_documentation/.
 
