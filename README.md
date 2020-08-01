@@ -1,25 +1,19 @@
 
 [<img src="https://github.com/otocash/otocash/blob/master/src/qt/res/images/githubbanner.png">](https://www.otocash.io)
 
-OTOCASH Core staging tree V1.0.1 
-================================
-
-http://www.otocash.io
-
-Copyright (c) 2018-2019 OTO CASH ENTERPRISE
-
-[![Build Status](https://travis-ci.org/otocash/OTOCASH.svg?branch=master)](https://travis-ci.org/otocash/OTOCASH)
+OTOCASH Core V1.0.1 
+===================
+[![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/otocash)
 [![License][license-badge]][license-page]
+[![Read the Docs](https://readthedocs.org/projects/yt2mp3/badge/?version=latest)](https://www.otocash.io/otocash_documentation/)
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/otocash/masterbuilder/releases/tag/v1.0.1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/otocashofficial.svg?style=social)](https://twitter.com/otocashofficial)
+[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://t.me/otocashofficial)  
 
 [license-page]: LICENSE
 [license-badge]: http://img.shields.io/badge/License-MIT-brightgreen.svg
 
-Report An Issues 
-================
-
-This is the second [release](https://github.com/otocash/OTOCASH/releases) of OTOCASH Core if you find any bugs, Please report using the issue tracker on GitHub:
-
-https://github.com/otocash/OTOCASH/issues
+Copyright (c) 2018-2020 OTO CASH ENTERPRISE
 
 What is OTOCASH?
 ----------------
@@ -34,15 +28,16 @@ OTOCASH (OTO) is a Scrypt-PoS Based Cryptocurrency, OTOCASH coin will be used on
 <tr><td>Average Block Time</td><td>140 Seconds</td></tr>
 <tr><td>Maturity</td><td>10 Confirmations</td></tr>
 <tr><td>Reward</td><td>0.0001 OTO</td></tr>
+<tr><td>Fee</td><td>0.0001 OTO</td></tr>
+<tr><td>Protocol#</td><td>120011</td></tr>
 <tr><td>P2P port</td><td>7011</td></tr>
 <tr><td>RPC port</td><td>7012</td></tr>
 <tr><td>Premine</td><td>38254582 OTO*</td></tr>
 </table>
 
-
-### Reward Distribution
 *View Coin Distribution on [otocash.io](https://www.otocash.io/#distribution)
 
+### Reward Distribution
 For more information, as well as an immediately useable, binary version of
 the OTOCASH client sofware, see https://www.otocash.io/otocash_documentation/.
 
@@ -146,10 +141,16 @@ License
 OTOCASH Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
+Report An Issues 
+----------------
+
+This is the second [release](https://github.com/otocash/OTOCASH/releases) of OTOCASH Core if you find any bugs, Please report using the issue tracker on GitHub:
+
+https://github.com/otocash/OTOCASH/issues
+
 Disclaimer
 -------------------
 
 OTOCASH project is The Future Financial System Currency.
 Invest at your own risk.
-
 
