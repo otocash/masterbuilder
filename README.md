@@ -1,5 +1,5 @@
 
-<img src="https://github.com/otocash/OTOCASH/blob/master/src/qt/res/images/logo-200x200.png">
+[<img src="https://github.com/otocash/otocash/blob/master/src/qt/res/images/githubbanner.png">](https://www.otocash.io)
 
 OTOCASH Core staging tree V1.0.1 
 ================================
