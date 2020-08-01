@@ -992,7 +992,6 @@ uint64_t GetProofOfStakeReward(const CBlockIndex* pindexPrev, uint64_t nCoinAge,
 {
 	uint64_t nSubsidy;
 
-	//nSubsidy = nCoinAge * GetCoinYearReward(pindexPrev->nHeight) * 33 / (365 * 33 + 8);
 	nSubsidy = GetCoinYearReward(pindexPrev->nHeight);
 
 	LogPrint("creation", "GetProofOfStakeReward(): coinYearReward=%d create=%s nCoinAge=%d\n", GetCoinYearReward(pindexPrev->nHeight), FormatMoney(nSubsidy), nCoinAge);

@@ -52,7 +52,7 @@ static const unsigned int DEFAULT_MAX_ORPHAN_BLOCKS = 40;
 /** The maximum number of entries in an 'inv' protocol message */
 static const unsigned int MAX_INV_SZ = 50000;
 /** Fees smaller than this (in satoshi) are considered zero fee (for transaction creation) */
-static const int64_t MIN_TX_FEE = 1000;
+static const int64_t MIN_TX_FEE = 100; //before: 1000;
 /** Fees smaller than this (in satoshi) are considered zero fee (for relaying) */
 static const int64_t MIN_RELAY_TX_FEE = MIN_TX_FEE;
 /** No amount larger than this (in satoshi) is valid */
@@ -62,8 +62,13 @@ inline bool MoneyRange(int64_t nValue) { return (nValue >= 0 && nValue <= MAX_MO
 static const unsigned int LOCKTIME_THRESHOLD = 500000000; // Tue Nov  5 00:53:20 1985 UTC
 
 //Code to reduce block reward yearly 
-inline int64_t GetCoinYearReward(int nHeight) {
-    int64_t YearPercent = 0.01 * CENT;
+inline uint64_t GetCoinYearReward(int nHeight) {
+	uint64_t YearPercent = 0.01 * CENT;
+	if(nHeight+1 >= 220000) {
+		YearPercent = 0.25 * COIN;
+	} else {
+		YearPercent = 0.01 * CENT;
+	}
     return YearPercent; // 
 }
 inline int64_t FutureDrift(int64_t nTime) { return nTime + 60 * 60 * 24 * 12; }
