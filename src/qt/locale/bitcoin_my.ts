@@ -157,12 +157,12 @@ Maklumat tambahan berkaitan OTOCASH boleh didapati di (&lt;a href=&quot;https://
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation>Passphrasendialog</translation>
+        <translation>Dialog kata laluan</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation>Kata Laluan</translation>
+        <translation>Masukan Kata Laluan</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -259,7 +259,7 @@ Maklumat tambahan berkaitan OTOCASH boleh didapati di (&lt;a href=&quot;https://
     <message>
         <location line="+82"/>
         <source>OTOCASH will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>OTOCASH akan ditutup sekarang untuk menyelesaikan proses penyulitan. Ingat bahawa menyulitkan dompet anda tidak dapat melindungi duit syiling anda sepenuhnya daripada dicuri oleh malware yang menjangkiti komputer anda</translation>
+        <translation>OTOCASH akan ditutup sekarang untuk menyelesaikan proses penyulitan. Ingat bahawa menyulitkan dompet anda tidak dapat melindungi koin anda sepenuhnya daripada dicuri oleh malware yang menjangkiti komputer anda</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -856,7 +856,7 @@ Alamat: %4</translation>
     <message>
         <location line="+2"/>
         <source>Copy fee</source>
-        <translation>Gebühr kopieren</translation>
+        <translation>Salin cas</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1118,7 +1118,7 @@ Alamat: %4</translation>
     <message>
         <location line="+19"/>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>Port proksi (z.B. 9050)</translation>
+        <translation>Port proksi (cth. 9050)</translation>
     </message>
     <message>
         <location line="-57"/>
@@ -1294,7 +1294,7 @@ Alamat: %4</translation>
     <message>
         <location line="+50"/>
         <source>&lt;b&gt;Recent transactions&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Transacsi terkini&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Transaksi terkini&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="-118"/>
