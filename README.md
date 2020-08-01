@@ -1,7 +1,7 @@
 
 [<img src="https://github.com/otocash/otocash/blob/master/src/qt/res/images/githubbanner.png">](https://www.otocash.io)
 
-OTOCASH Core V1.0.2 
+OTOCASH Core V1.2.0 
 ===================
 [![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/otocash)
 [![License][license-badge]][license-page]
@@ -27,8 +27,8 @@ OTOCASH (OTO) is a Scrypt-PoS Based Cryptocurrency, OTOCASH coin will be used on
 <tr><td>Algo</td><td>Script-PoS</td></tr>
 <tr><td>Average Block Time</td><td>140 Seconds</td></tr>
 <tr><td>Maturity</td><td>10 Confirmations</td></tr>
-<tr><td>Reward</td><td>0.0001 OTO</td></tr>
-<tr><td>Fee</td><td>0.0001 OTO</td></tr>
+<tr><td>Reward</td><td>0.25 OTO</td></tr>
+<tr><td>Fee</td><td>0.00001 OTO</td></tr>
 <tr><td>Protocol#</td><td>120011</td></tr>
 <tr><td>P2P port</td><td>7011</td></tr>
 <tr><td>RPC port</td><td>7012</td></tr>
