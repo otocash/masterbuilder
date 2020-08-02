@@ -66,37 +66,39 @@ See [build-msw.txt](/doc/build-msw.txt) , [build-osx.txt](/doc/build-osx.txt) or
 OTOCASH peer list
 
 ```
-- 104.168.99.53:7011	    /Satoshi:v1.0.0/	
-- 104.219.248.187:7011      /Satoshi:v1.0.0/	
-- 199.192.21.195:7011	    /Otocash:v1.0.1/	
-- 185.136.163.178:7011      /Satoshi:v1.0.0/	
-- 82.195.237.251:7011	    /Otocash:v1.0.1/	
-- 199.192.26.10:7011	    /Otocash:v1.0.1/	
-- 199.192.26.38:7011	    /Satoshi:v1.0.0/	
+- 104.168.99.53:7011	    /Otocash:v1.0.2/	
+- 185.136.163.178:7011      /Otocash:v1.0.2/	
 - 198.54.121.78:7011	    /Otocash:v1.0.1/
-- 111.90.150.205:7011       /Satoshi:v1.0.0/ 
+- 111.90.150.205:7011       /Otocash:v1.0.2/ 
 - 161.129.65.4:7011         /Otocash:v1.0.1/ 
 - 111.90.146.78:7011        /Otocash:v1.0.1/ 
 - 111.90.151.137:7011       /Otocash:v1.0.1/
+- 198.54.121.69:7011        /Otocash:v1.0.2/
+- 63.250.35.204:7011        /Otocash:v1.0.2/
+- 185.136.163.114:7011      /Otocash:v1.0.2/
+- 128.199.231.10:7011       /Otocash:v1.0.2/
+- 128.199.225.197:7011      /Otocash:v1.0.2/
 ```
 
 Copy this nodes to your wallet .conf file
 If you have problem to sync your wallet with Otocash blockchain - use the following nodes to fix it.
 
 ```
-- addnode=104.168.99.53:7011 
-- addnode=104.219.248.187:7011 
-- addnode=199.192.21.195:7011
+- addnode=104.168.99.53:7011
 - addnode=185.136.163.178:7011 
-- addnode=82.195.237.251:7011
-- addnode=199.192.26.10:7011
-- addnode=199.192.26.38:7011 
 - addnode=198.54.121.78:7011
-- addnode=111.90.150.205:7011 
+- addnode=111.90.150.205:7011
 - addnode=161.129.65.4:7011 
-- addnode=111.90.146.78:7011 
+- addnode=111.90.146.78:7011
 - addnode=111.90.151.137:7011 
+- addnode=198.54.121.69:7011
+- addnode=63.250.35.204:7011 
+- addnode=185.136.163.114:7011
+- addnode=128.199.231.10:7011
+- addnode=128.199.225.197:7011
 ```
+
+
 
 
 Testing
@@ -110,12 +112,12 @@ lots of money.
 OTOCASH testnet node
 
 ```
-- 199.192.16.64:17011	    /Otocash:v1.0.1/	
+- 185.136.169.110:17011	    /Otocash:v1.0.1/	
 ```
 Copy this nodes to your wallet .conf file
 
 ```
-- addnode=199.192.16.64:17011
+- addnode=185.136.169.110:17011
 ```
 
 
