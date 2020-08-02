@@ -20,7 +20,7 @@ Hakcipta © 2018-2020 Pemaju OTOCASH</source>
     <message>
         <location line="+15"/>
         <source>
-Ini adalah perisian eksperimen.
+Ini adalah perisian percubaan.
 
 Diagihkan di bawah lesen perisian MIT / X11, lihat fail yang disertakan PENYALINAN atau &lt;a href=&quot;http://www.opensource.org/licenses/mit-license.php&quot;&gt;http://www.opensource.org/licenses/mit-license.php&lt;/a&gt;.
 
@@ -139,7 +139,7 @@ Maklumat tambahan berkaitan OTOCASH boleh didapati di (&lt;a href=&quot;https://
     <message>
         <location filename="../addresstablemodel.cpp" line="+145"/>
         <source>Label</source>
-        <translation>Label</translation>
+        <translation>Lebel</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -149,7 +149,7 @@ Maklumat tambahan berkaitan OTOCASH boleh didapati di (&lt;a href=&quot;https://
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation>(tiada alamat)</translation>
+        <translation>(tiada lebel)</translation>
     </message>
 </context>
 <context>
@@ -187,7 +187,7 @@ Maklumat tambahan berkaitan OTOCASH boleh didapati di (&lt;a href=&quot;https://
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+38"/>
         <source>Encrypt wallet</source>
-        <translation>Enkripsi dompet</translation>
+        <translation>Menyulitkan dompet</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -207,7 +207,7 @@ Maklumat tambahan berkaitan OTOCASH boleh didapati di (&lt;a href=&quot;https://
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation>Decrypt dompet</translation>
+        <translation>Menyahsulitkan dompet</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1004,8 +1004,7 @@ Alamat: %4</translation>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
         <source>OTOCASH-Qt</source>
-        <translation>OTOCASH-Qt
-</translation>
+        <translation>OTOCASH-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1563,8 +1562,7 @@ Alamat: %4</translation>
     <message>
         <location line="+2"/>
         <source>%1 GB</source>
-        <translation>%1 GB
-</translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1695,12 +1693,12 @@ Alamat: %4</translation>
     <message>
         <location line="+47"/>
         <source>Confirm the send action</source>
-        <translation>Confirm the send action</translation>
+        <translation>Sahkan tindakan hantar</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>S&amp;end</source>
-        <translation>&amp;akhir</translation>
+        <translation>&amp;Hantar</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-171"/>
@@ -2302,7 +2300,7 @@ Alamat: %4</translation>
     <message>
         <location line="+3"/>
         <source>Unconfirmed</source>
-        <translation>Tidah disahkan:</translation>
+        <translation>Tidak disahkan:</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2481,7 +2479,7 @@ Alamat: %4</translation>
     <message>
         <location line="+1"/>
         <source>Edit label</source>
-        <translation>Edit label</translation>
+        <translation>Edit lebel</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2516,7 +2514,7 @@ Alamat: %4</translation>
     <message>
         <location line="+1"/>
         <source>Label</source>
-        <translation>Labeltranslation>
+        <translation>Lebel</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2541,7 +2539,7 @@ Alamat: %4</translation>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>Could not write to file %1.</translation>
+        <translation>Tidak dapat menulis ke fail %1.</translation>
     </message>
     <message>
         <location line="+100"/>
@@ -2921,7 +2919,7 @@ Contoh: alertnotify=echo %%s | mail -s &quot;OTOCASH Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>&lt;category&gt; boleh jadi:</source>
+        <source>&lt;kategori&gt; boleh jadi:</source>
         <translation type="unfinished"/>
     </message>
     <message>
