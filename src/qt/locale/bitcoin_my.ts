@@ -970,7 +970,7 @@ Alamat: %4</translation>
     <message>
         <location line="+3"/>
         <source>Edit receiving address</source>
-        <translation>Edit alamay penerima</translation>
+        <translation>Edit alamat penerima</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1093,7 +1093,7 @@ Alamat: %4</translation>
     <message>
         <location line="+6"/>
         <source>Automatically open the OTOCASH client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Buka port klien OTOCASH secara automatik pada penghala. Ini hanya berfungsi apabila penghala anda menyokong UPnP dan diaktifkan.</translation>
+        <translation>Buka port pengguna OTOCASH secara automatik pada penghala. Ini hanya berfungsi apabila penghala anda menyokong UPnP dan diaktifkan.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1208,7 +1208,7 @@ Alamat: %4</translation>
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation>&amp;Memohon</translation>
+        <translation>&amp;Mohon</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="+47"/>
@@ -1745,7 +1745,7 @@ Alamat: %4</translation>
     <message>
         <location line="+85"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt; bis %2 (%3)</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; kepada %2 (%3)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2226,7 +2226,7 @@ Alamat: %4</translation>
     <message>
         <location line="+0"/>
         <source>false</source>
-        <translation>slah</translation>
+        <translation>salah</translation>
     </message>
     <message>
         <location line="-202"/>
@@ -2302,17 +2302,17 @@ Alamat: %4</translation>
     <message>
         <location line="+3"/>
         <source>Unconfirmed</source>
-        <translation>Unbestätigt:</translation>
+        <translation>Tidah disahkan:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirming (%1 of %2 recommended confirmations)</source>
-        <translation>wird Bestätigt (%1 von %2 Bestätigungen)</translation>
+        <translation>Mengesahkan (%1 dari %2 Pengesahan di cadangkan)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Conflicted</source>
-        <translation>Konflikt</translation>
+        <translation>Bercanggah</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2792,7 +2792,7 @@ Contoh: alertnotify=echo %%s | mail -s &quot;OTOCASH Alert&quot; admin@foo.com
     <message>
         <location line="+30"/>
         <source>Prepend debug output with timestamp</source>
-        <translation>Tambahkan output debug dengan cap waktu</translation>
+        <translation>Tambahkan penguluaran debug dengan cap waktu</translation>
     </message>
     <message>
         <location line="+36"/>
@@ -3213,7 +3213,7 @@ Contoh: alertnotify=echo %%s | mail -s &quot;OTOCASH Alert&quot; admin@foo.com
     <message>
         <location line="-27"/>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <location line="+22"/>
