@@ -60,7 +60,7 @@
         <file alias="da">locale/bitcoin_da.qm</file>
         <file alias="de">locale/bitcoin_de.qm</file>
         <file alias="el_GR">locale/bitcoin_el_GR.qm</file>
-        <file alias="my-MS">locale/bitcoin_my.qm</file>
+        <file alias="ms_MY">locale/bitcoin_ms_MY.qm</file>
         <file alias="en">locale/bitcoin_en.qm</file>
         <file alias="eo">locale/bitcoin_eo.qm</file>
         <file alias="es_CL">locale/bitcoin_es_CL.qm</file>
