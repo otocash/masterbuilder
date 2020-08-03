@@ -1,12 +1,12 @@
 
 [<img src="https://github.com/otocash/otocash/blob/master/src/qt/res/images/githubbanner.png">](https://www.otocash.io)
 
-OTOCASH Core V1.1.2.2 
+OTOCASH Core V1.1.2.4 
 =====================
 [![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/otocash)
 [![License][license-badge]][license-page]
 [![Read the Docs](https://readthedocs.org/projects/yt2mp3/badge/?version=latest)](https://www.otocash.io/otocash_documentation/)
-[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/otocash/OTOCASH/releases/tag/v1.1.2.2)
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/otocash/OTOCASH/releases/tag/v1.1.2.4)
 [![Twitter Follow](https://img.shields.io/twitter/follow/otocashofficial.svg?style=social)](https://twitter.com/otocashofficial)
 [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://t.me/otocashofficial)  
 
@@ -66,18 +66,18 @@ See [build-msw.txt](/doc/build-msw.txt) , [build-osx.txt](/doc/build-osx.txt) or
 OTOCASH peer list
 
 ```
-- 104.168.99.53:7011	    /Otocash:v1.1.2/	 
-- 185.136.163.178:7011      /Otocash:v1.1.2/	
+- 104.168.99.53:7011	    /Otocash:v1.1.2.4/	 
+- 185.136.163.178:7011      /Otocash:v1.1.2.4/	
 - 198.54.121.78:7011	    /Otocash:v1.0.1/ 
-- 111.90.150.205:7011       /Otocash:v1.1.2/  
-- 161.129.65.4:7011         /Otocash:v1.1.2/ 
-- 111.90.146.78:7011        /Otocash:v1.1.2/ 
-- 111.90.151.137:7011       /Otocash:v1.1.2/ 
-- 198.54.121.69:7011        /Otocash:v1.1.2/ 
-- 107.152.213.111:7011      /Otocash:v1.1.2/
-- 185.136.163.114:7011      /Otocash:v1.1.2/ 
-- 128.199.231.10:7011       /Otocash:v1.1.2/ 
-- 128.199.225.197:7011      /Otocash:v1.1.2/ 
+- 111.90.150.205:7011       /Otocash:v1.1.2.4/  
+- 161.129.65.4:7011         /Otocash:v1.1.2.4/ 
+- 111.90.146.78:7011        /Otocash:v1.1.2.4/ 
+- 111.90.151.137:7011       /Otocash:v1.1.2.4/ 
+- 198.54.121.69:7011        /Otocash:v1.1.2.4/ 
+- 107.152.213.111:7011      /Otocash:v1.1.2.4/
+- 185.136.163.114:7011      /Otocash:v1.1.2.4/ 
+- 128.199.231.10:7011       /Otocash:v1.1.2.4/ 
+- 128.199.225.197:7011      /Otocash:v1.1.2.4/ 
 ```
 
 Copy this nodes to your wallet .conf file
