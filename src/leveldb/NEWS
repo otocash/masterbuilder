@@ -1,6 +1,11 @@
-Release 1.0.1 2019-08-10
+Release v1.1.2 2020-08-10
 ----------------------
 
- This release which we call cosmetic updates.This update includes 
- logo updates and descriptions in README, without touching the 
- critical parts of the code.
+This release is a critical updates. This update includes QT Malay Language locale, increasing a reward to 0.25 OTO/Block
+and reducing fee to 0.000001 OTO.
+ 
+This update is not need to swap/rollback/new address or transfer to new chain also not a "vout" paremeter changing.
+
+All OTOCASH official explorers will use v1.1.2.
+ 
+Readmore: https://medium.com/@otocash.io/development-announcement-fcea94ddff0b
