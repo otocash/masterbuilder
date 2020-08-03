@@ -1,12 +1,12 @@
 
 [<img src="https://github.com/otocash/otocash/blob/master/src/qt/res/images/githubbanner.png">](https://www.otocash.io)
 
-OTOCASH Core V1.1.2.1 
-=====================
+OTOCASH Core V1.1.2 
+===================
 [![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/otocash)
 [![License][license-badge]][license-page]
 [![Read the Docs](https://readthedocs.org/projects/yt2mp3/badge/?version=latest)](https://www.otocash.io/otocash_documentation/)
-[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/otocash/OTOCASH/releases/tag/v1.1.2.1)
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/otocash/OTOCASH/releases/tag/v1.1.2)
 [![Twitter Follow](https://img.shields.io/twitter/follow/otocashofficial.svg?style=social)](https://twitter.com/otocashofficial)
 [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://t.me/otocashofficial)  
 
