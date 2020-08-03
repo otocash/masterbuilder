@@ -1,8 +1,8 @@
 
 [<img src="https://github.com/otocash/otocash/blob/master/src/qt/res/images/githubbanner.png">](https://www.otocash.io)
 
-OTOCASH Core V1.1.2 
-===================
+OTOCASH Core V1.1.2.1 
+=====================
 [![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/otocash)
 [![License][license-badge]][license-page]
 [![Read the Docs](https://readthedocs.org/projects/yt2mp3/badge/?version=latest)](https://www.otocash.io/otocash_documentation/)
