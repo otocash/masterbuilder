@@ -16,7 +16,7 @@
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2019 The OTOCASH developers</source>
+Copyright © 2018-2020 The OTOCASH developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -26,11 +26,11 @@ This is experimental software.
 
 Distributed under the MIT/X11 software license, see the accompanying file COPYING or &lt;a href=&quot;http://www.opensource.org/licenses/mit-license.php&quot;&gt;http://www.opensource.org/licenses/mit-license.php&lt;/a&gt;.
 
-This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (&lt;a href=&quot;https://www.openssl.org/&quot;&gt;https://www.openssl.org/&lt;/a&gt;) and cryptographic software written by Eric Young (&lt;a href=&quot;mailto:eay@cryptsoft.com&quot;&gt;eay@cryptsoft.com&lt;/a&gt;) and UPnP software written by Thomas Bernard.</source>
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (&lt;a href=&quot;https://www.openssl.org/&quot;&gt;https://www.openssl.org/&lt;/a&gt;) and cryptographic software written by Eric Young (&lt;a href=&quot;mailto:eay@cryptsoft.com&quot;&gt;eay@cryptsoft.com&lt;/a&gt;) and UPnP software written by Thomas Bernard.
        
-Additional information related to OTOCASH can be found at (&lt;a href=&quot;https://www.otocash.io/otocash_documentation/&quot;&gt;https://www.otocash.io/otocash_documentation/&lt;/a&gt;) and at Github (&lt;a href=&quot;https://github.com/otocash/OTOCASH/&quot;&gt;https://github.com/otocash/OTOCASH/&lt;/a&gt;).        
+</source>
         <translation type="unfinished"></translation>
-        </message>
+    </message>
 </context>
 <context>
     <name>AddressBookPage</name>
