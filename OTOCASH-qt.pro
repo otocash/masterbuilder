@@ -1,6 +1,6 @@
 TEMPLATE = app
 TARGET = OTOCASH-qt
-VERSION = 1.1.2.4
+VERSION = 1.1.3
 INCLUDEPATH += src src/json src/qt
 QT += network
 DEFINES += ENABLE_WALLET
