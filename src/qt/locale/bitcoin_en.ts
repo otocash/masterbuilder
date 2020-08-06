@@ -28,7 +28,7 @@ Distributed under the MIT/X11 software license, see the accompanying file COPYIN
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (&lt;a href=&quot;https://www.openssl.org/&quot;&gt;https://www.openssl.org/&lt;/a&gt;) and cryptographic software written by Eric Young (&lt;a href=&quot;mailto:eay@cryptsoft.com&quot;&gt;eay@cryptsoft.com&lt;/a&gt;) and UPnP software written by Thomas Bernard.
        
-</source>
+Additional information related to OTOCASH can be found at (&lt;a href=&quot;https://www.otocash.io/otocash_documentation/&quot;&gt;https://www.otocash.io/otocash_documentation/&lt;/a&gt;) and at Github (&lt;a href=&quot;https://github.com/otocash/OTOCASH/&quot;&gt;https://github.com/otocash/OTOCASH/&lt;/a&gt;).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

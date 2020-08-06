@@ -3,7 +3,7 @@
 
 OTOCASH Core V1.1.3 
 =====================
-[![Build Status](https://travis-ci.org/otocash/masterbuider.svg?branch=master)](https://travis-ci.org/otocash/masterbuilder)
+[![Build Status](https://travis-ci.org/otocash/OTOCASH.svg?branch=master)](https://travis-ci.org/otocash/OTOCASH)
 [![License][license-badge]][license-page]
 [![Read the Docs](https://readthedocs.org/projects/yt2mp3/badge/?version=latest)](https://www.otocash.io/otocash_documentation/)
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/otocash/OTOCASH/releases/tag/v1.1.3)
